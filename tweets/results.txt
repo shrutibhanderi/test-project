@@ -1,0 +1,8 @@
+How many tweets have Russian language?
+     307
+How many tweets are from August 2016?
+      82
+How many tweets contain a retweet?
+   32011
+How many tweets mention gameofthrones?
+       4
